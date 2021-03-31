@@ -14,7 +14,7 @@
 - best mouse to use and the importance of having a wrist pad with your computer 
 - Javascript...all of it! 🤓🤓🤓
 - Java, in process!! 💪
-- Mobile developing (big fan of React native here!! ❤❤❤❤❤❤) https://drive.google.com/file/d/1NY2V4mPylfZ0SHMisqyXqL4w2wcWdn6I/view a small show of a project we did for  https://www.elpotrero.org (sorry is in spanish!!!)
+- Mobile developing (big fan of React native here!! ❤❤❤❤❤❤) [Click me for video!](https://drive.google.com/file/d/1NY2V4mPylfZ0SHMisqyXqL4w2wcWdn6I/view) a small show of a project we did for  https://www.elpotrero.org (sorry is in spanish!!!)
 - Suggestions for the next tech I should learn???
 
 - 📫 How to reach me?? paulitadonoso28@gmail.com let's chat!!
