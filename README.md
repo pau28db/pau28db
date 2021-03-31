@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Paula Donoso, I'm a Fullstack Web Developer!!!!
-....also a dive instructor...also a physiotherapist
+....also a dive instructor🦈🐠🐳🐙 ...also a physiotherapist 👩‍⚕️
 ...I know, it's a bit much...but I love everything I have done, and I always want more!!!
 
 - 🌱 I’m currently learning Java, it's a language that's suuper important to know, specially in the backend. Righ now studying SpringBoot and hopefully I will add SpringBoot developer to the list soon! 
@@ -12,17 +12,16 @@
 - what sunscreen protection is enough?
 - my back hurts and I think it could be....(usually they go long here 😄)
 - best mouse to use and the importance of having a wrist pad with your computer 
-- Javascript...all of it!
-- Java, in process!!
+- Javascript...all of it! 🤓🤓🤓
+- Java, in process!! 💪
 - -Mobile developing (big fan of React native here!! ❤❤❤❤❤❤)
 - Suggestions for the next tech I should learn???
 
 - 📫 How to reach me?? paulitadonoso28@gmail.com let's chat!!
 
 
-- ⚡ Fun fact: I'm also a great cook!!! Harry Potter for life ❤ and my best friend was a Napoleon fish named Frank!!🐟
-- (...I know...pic or it's not true 😛)
-- [Frank&me](https://user-images.githubusercontent.com/63138448/113167159-d4629400-9219-11eb-8602-0638677a2b44.JPG)
+- ⚡ Fun fact: I'm also a great cook!!!👩‍🍳 Harry Potter for life ❤ and my best friend was a Napoleon fish named Frank!!🐟
+- (...I know...pic or it's not true 😛) [Frank&me](https://user-images.githubusercontent.com/63138448/113167159-d4629400-9219-11eb-8602-0638677a2b44.JPG)
  He followed me in every single dive that I did with Reef Trips in Cairns, Australia!!! 
 
 
