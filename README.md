@@ -2,7 +2,7 @@
 ....aaaaand also a dive instructor🦈🐠🐳🐙 ...aaaand also a physiotherapist 👩‍⚕️🍎🦴🧠
 ...I know, it's a bit much...but I love everything I have done, and I always want more!!!
 
-- 🌱 I’m currently learning Java, it's a language that's suuper important to know, specially in the backend. Righ now studying SpringBoot and hopefully I will add SpringBoot developer to the list soon! 
+- 🌱 I’m currently learning Java, it's a language that was fundamental on the making of the internet we all know and love ❤, specially in the backend. Righ now studying SpringBoot and hopefully I will add SpringBoot developer to the list soon! 
 
 - 👯 I’m looking to collaborate on EVERYTHING!!! I just finished this AMAAAZING bootcamp called Henry in LATAM, and I'm hungry to learn more!!
 - (Link just in case you want to know more about Henry :) https://www.soyhenry.com)
