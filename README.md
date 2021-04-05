@@ -8,7 +8,7 @@
 - (Link just in case you want to know more about Henry :) https://www.soyhenry.com)
 
 - 💬 Ask me about: 
-- diving? 
+- Maybeee...diving? 
 - what sunscreen protection is enough?
 - my back hurts and I think it could be....(usually they go long here 😄)
 - best mouse to use and the importance of having a wrist pad with your computer 
